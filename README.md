@@ -14,12 +14,9 @@
 
 ## ![Features](https://github.com/wejkey/SoneMC/raw/main/images/images2/Features.png)
 
-- Can put a nametag on a mob without the item (Nametag).
-- Requires permissions, so not everybody can use it.
-- Just look at the mob you want to put the nametag on.
-
-### 🎥 Example
-![NametagIt GIF](https://github.com/wejkey/SoneMC/raw/main/images/gifs/nametagit.gif)
+- Can put a nametag on mob without the item (Nametag)
+- Requires permissions, so no everybody can use it
+- Just look at the mob you want put nametag on
 
 
 ![](https://github.com/wejkey/SoneMC/raw/main/images/images2/separator.png)
@@ -56,6 +53,13 @@ no-mob-message: "&cYou are not looking at mob"
 ```
 
 ![](https://github.com/wejkey/SoneMC/raw/main/images/images2/separator.png)
+
+## ![Media](https://github.com/wejkey/SoneMC/raw/main/images/images2/Media.png)
+
+![NametagIt GIF](https://github.com/wejkey/SoneMC/raw/main/images/gifs/nametagit.gif)
+
+![](https://github.com/wejkey/SoneMC/raw/main/images/images2/separator.png)
+
 
 ## ![Support](https://github.com/wejkey/SoneMC/raw/main/images/images2/Support.png)
 
