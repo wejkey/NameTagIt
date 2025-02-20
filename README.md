@@ -18,7 +18,7 @@
 - Requires permissions, so not everybody can use it.
 - Just look at the mob you want to put the nametag on.
 
-### 🎥 See it in action!
+### 🎥 Exapmle
 ![NametagIt GIF](https://github.com/wejkey/SoneMC/raw/main/images/gifs/nametagit.gif)
 
 
