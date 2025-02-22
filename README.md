@@ -68,7 +68,7 @@ no-mob-message: "&cYou are not looking at mob"
 If you have any problems, please report them, so they can be fixed as soon as possible. Dont leave a bad review with message "It didnt worked". Thanks.
 
 ![Discord](https://img.shields.io/discord/1340050728764575815?style=for-the-badge)
-[![Dev Build](https://img.shields.io/badge/Download%20Build-orange?style=for-the-badge&logo=github)](https://github.com/wejkey/NameTagIt/releases/tag/1.1)  
+[![Dev Build](https://img.shields.io/badge/Download%20Latest-Green?style=for-the-badge&logo=github)](https://github.com/wejkey/NameTagIt/releases/tag/1.1)  
 
 
 
