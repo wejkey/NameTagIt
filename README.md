@@ -68,7 +68,7 @@ no-mob-message: "&cYou are not looking at mob"
 If you have any problems, please report them, so they can be fixed as soon as possible. Dont leave a bad review with message "It didnt worked". Thanks.
 
 ![Discord](https://img.shields.io/discord/1340050728764575815?style=for-the-badge)
-![GitHub Download](https://img.shields.io/github/downloads/wejkey/NameTagIt/1.1/NameTagIt_1.1.jar)
+[![Download](https://img.shields.io/github/v/release/wejkey/NameTagIt?label=Download)](https://github.com/wejkey/NameTagIt/releases/tag/1.1)
 
 
 
