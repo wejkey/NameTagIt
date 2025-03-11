@@ -1,4 +1,4 @@
-# NameTagIt     
+# NameTagIt (README.md will not be updated)
 *Now you can name mobs without actual nametag...*  
 
 ![](https://github.com/wejkey/SoneMC/raw/main/images/images2/separator.png)
